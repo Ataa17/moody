@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moody/static/css/main.3b55e975.css",
+    "main.js": "/moody/static/js/main.18bfb787.js",
+    "static/media/search.svg": "/moody/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "index.html": "/moody/index.html",
+    "main.3b55e975.css.map": "/moody/static/css/main.3b55e975.css.map",
+    "main.18bfb787.js.map": "/moody/static/js/main.18bfb787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b55e975.css",
+    "static/js/main.18bfb787.js"
+  ]
+}
