@@ -51,7 +51,7 @@ function App() {
           </div>
         )
       }
-
+    <h6>Made with love by Ataa</h6>
     </div>
   );
 }
